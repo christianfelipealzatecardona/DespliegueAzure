@@ -1,0 +1,11 @@
+name: rcv-aml-env
+dependencies:
+  - python=3.8
+  - scikit-learn
+  - numpy
+  - pandas
+  - pip
+  
+  - pip:
+        - azureml-defaults
+        - azureml-core

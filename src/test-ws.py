@@ -1,0 +1,1 @@
+print('Validando en el workspace de la monografía v2...')
